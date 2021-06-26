@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212811887961",
+    "firebase_url": "https://fan-app-5a72f-default-rtdb.firebaseio.com",
+    "project_id": "fan-app-5a72f",
+    "storage_bucket": "fan-app-5a72f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212811887961:android:f82468303aa31acd008848",
+        "android_client_info": {
+          "package_name": "com.adansinghani1.fanapponly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212811887961-bpffb2vhqv4md7ig3g3lahp2t1es6da6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adansinghani1.fanapponly",
+            "certificate_hash": "e057b61898057e9755104a40dc0f57b4b74fd140"
+          }
+        },
+        {
+          "client_id": "212811887961-k3l4a7gpcg3e3opgg83d6hpmjkl3qsh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDva0qBWelGSYCsI51ig3-aCBRikj7GRAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212811887961-k3l4a7gpcg3e3opgg83d6hpmjkl3qsh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
